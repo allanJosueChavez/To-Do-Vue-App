@@ -63,7 +63,7 @@ onMounted(() =>{
         <h4>
           What's on your to-do list?
         </h4>
-        <input type="text" placeholder="e.g: make a video" v-model="input_content">
+        <input type="text" placeholder="e.g: study study concepts of ruby on rails" v-model="input_content">
         <h4>Pick a category</h4>
         <div class="options">
           <label>
